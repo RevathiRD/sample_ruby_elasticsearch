@@ -20,6 +20,8 @@ script:
   - bundle exec rake test
 after_script:
   - killall -9 ruby
+  
+  
 
 
 
